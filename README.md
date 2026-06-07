@@ -1,7 +1,5 @@
 # Automated Car Image Classification and Segmentation
 
-**Computer Vision Final Project**
-
 
 ## Project Overview
 
