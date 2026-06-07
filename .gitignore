@@ -1,0 +1,19 @@
+# Data & model artifacts (downloaded / generated — do not commit)
+data/
+models/*.keras
+models/*.h5
+*.zip
+
+# Kaggle credentials — NEVER commit
+kaggle.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/

@@ -1,0 +1,10 @@
+# Core deep learning stack (Colab already ships these; pin only loosely)
+tensorflow>=2.15
+numpy
+matplotlib
+scikit-learn
+pillow
+
+# Dataset download
+huggingface_hub
+kaggle
